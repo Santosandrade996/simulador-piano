@@ -26,5 +26,6 @@ O GIF acima mostra a interação do usuário com o piano tocando as teclas.
 
 1. Clone o repositório:
    ```bash
+   https://github.com/Santosandrade996/simulador-piano
 
 

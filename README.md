@@ -14,11 +14,11 @@ Este é um projeto de um **piano virtual** desenvolvido com HTML, CSS e JavaScri
 - HTML5
 - CSS3
 - JavaScript
-- Arquivos de áudio (`.mp3` ou `.wav`)
+- Arquivos de áudio (`.wav`)
 
 ## 💻 Como executar o projeto
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 

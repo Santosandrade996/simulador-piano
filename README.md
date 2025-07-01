@@ -19,7 +19,7 @@ Este é um projeto de um **piano virtual** desenvolvido com HTML, CSS e JavaScri
   ## 📷 Demonstração
 
 ![Demonstração do Piano](.src/gif/simulador.gif)
-O GIF acima mostra a interação do usuário com o piano tocando os sons das teclas.
+O GIF acima mostra a interação do usuário com o piano tocando as teclas.
 
 ## 💻 Como executar o projeto
 

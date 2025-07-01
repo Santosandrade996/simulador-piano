@@ -16,6 +16,10 @@ Este é um projeto de um **piano virtual** desenvolvido com HTML, CSS e JavaScri
 - JavaScript
 - Arquivos de áudio (`.wav`)
 
+  ## 📷 Demonstração
+
+O GIF acima mostra a interação do usuário com o piano tocando os sons das teclas.
+
 ## 💻 Como executar o projeto
 
 1. Clone o repositório:
